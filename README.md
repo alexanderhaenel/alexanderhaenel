@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @alexanderhaenel
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+
+
+str+c
+str+v :) Cause doublescripting as well
+
+- 👋 Hi, I’m @alex
+- 👀 I’m interested in ... CAE-> cae.mesh -> results = mesh.solve -> show.results
+- 🌱 I’m currently learning ... Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... alexander.h96472@gmail.com
